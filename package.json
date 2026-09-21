@@ -1,0 +1,9 @@
+{
+  "name": "fadehost-app-hosting-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A tiny dashboard that shows what a hosted app sees on FadeHost: the PORT it must listen on, its public URL and the request it received.",
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
